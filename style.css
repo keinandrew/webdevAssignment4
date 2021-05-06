@@ -1,0 +1,73 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.navbar-container {
+    padding: 2rem 0;
+}
+
+.nav-item {
+    padding: 0 1.5rem;
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#title {
+    background-color: blueviolet;
+    color: white;
+}
+
+.btn-head {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
+
+#features {
+    padding: 2rem 0;
+}
+
+.feature-icon {
+    padding-bottom: 1.2rem;
+}
+
+.feature-icon:hover {
+    color: blueviolet;
+}
+
+#card-demo {
+    padding: 1.5rem 0;
+    margin-bottom: 1rem;
+    background-color: blueviolet;
+    color: white;
+}
+
+
+
+
+.boy{
+
+    height: 200px;
+
+}
+
+
+
+h2{
+    padding-top: 5%;
+
+}
+
+
